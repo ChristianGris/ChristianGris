@@ -1,9 +1,7 @@
 ### Hi, Welcome to My Profile! 👋
 
-<p align='center'>
-  <img src='https://www.flaticon.com/free-icon/website_4061257' width="125" height="125">
-  <img src='https://www.flaticon.com/free-icon/website_4061426' width='125' height='125'>
-</p>
+
+
 <br>
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
