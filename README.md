@@ -2,20 +2,20 @@
 
 
 
-<br>
+
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
-<br>
+
 # I’m currently learning 🌱
 * Javascript to take it to the highest level!
 * Graphic Design 
-<br>
+
 # Last projects :closed_book:
 [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
-<br>
+
 # I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
-<br>
+
 # Contact Me :mailbox_with_mail:
 * **Discord:** Christian Grey#7350
 
