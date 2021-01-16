@@ -1,12 +1,12 @@
 ### Hi, Welcome to My Profile! 👋
 
-<p align='center'>
+<div align='center'>
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061389.svg?token=exp=1610826601~hmac=6ccc9964d398e38dae8f61a1d5eeb912' width="125" height="125">
-  <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061426.svg?token=exp=1610826619~hmac=d50beb3aa9a4dd301e7ec23fbaaec217' width='125' height='125'>
+  <p>         </p>
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061255.svg?token=exp=1610827132~hmac=7f8b1f44b59ace342a06ddce1dd0b83a' width='125' height='125'>
+  <p>         </p>
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061207.svg?token=exp=1610827127~hmac=22050652a8e794906c001a97b16a7a81' width='125' height='125'>
-  <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061187.svg?token=exp=1610827127~hmac=70114dd5b58eb3bd9b06753e9b9a7f63' width='125' height='125'>
-</p>
+</div>
 
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
