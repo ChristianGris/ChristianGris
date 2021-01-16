@@ -7,7 +7,7 @@ FrontEnd Websites with HTML, CSS & JS
 Javascript to take it to the highest level!
 
 ## :closed_book: Last projects
-[Bird OS](https://github.com/ChristianGris/Bird-OS)
+[Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
 ## 👯 I’m looking to collaborate with ...
 Anyone with an open mind and mindset of wanting to be the best at what they do!
