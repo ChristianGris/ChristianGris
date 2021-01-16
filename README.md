@@ -1,20 +1,26 @@
 ### Hi, Welcome to My Profile! 👋
 
-
-
+<p align='center'>
+  <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061389.svg?token=exp=1610826601~hmac=6ccc9964d398e38dae8f61a1d5eeb912' width="125" height="125">
+  <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061426.svg?token=exp=1610826619~hmac=d50beb3aa9a4dd301e7ec23fbaaec217' width='125' height='125'>
+</p>
 
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
+
 
 # I’m currently learning 🌱
 * Javascript to take it to the highest level!
 * Graphic Design 
 
+
 # Last projects :closed_book:
 [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
+
 # I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
+
 
 # Contact Me :mailbox_with_mail:
 * **Discord:** Christian Grey#7350
