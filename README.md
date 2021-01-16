@@ -1,15 +1,15 @@
 ### Hi, Welcome to My Profile! 👋
 
-## - 🔭 I’m currently working on
+## 🔭 I’m currently working on
 FrontEnd Websites with HTML, CSS & JS
 
-## - 🌱 I’m currently learning 
+## 🌱 I’m currently learning 
 Javascript to take it to the highest level!
 
-## - :closed_book: Last projects
+## :closed_book: Last projects
 [Bird OS](https://github.com/ChristianGris/Bird-OS)
 
-## - 👯 I’m looking to collaborate with ...
+## 👯 I’m looking to collaborate with ...
 Anyone with an open mind and mindset of wanting to be the best at what they do!
 
 <!--
