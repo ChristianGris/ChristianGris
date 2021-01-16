@@ -4,7 +4,8 @@
 FrontEnd Websites with HTML, CSS & JS
 
 # I’m currently learning 🌱
-Javascript to take it to the highest level!
+* Javascript to take it to the highest level!
+* Graphic Design 
 
 # Last projects :closed_book:
 [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
