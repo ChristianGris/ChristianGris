@@ -1,4 +1,4 @@
-### Hi, Welcome to My Profile! 👋
+<h1 align="center"> Hi, Welcome to My Profile! 👋 </h1>
 
 <div align='center'>
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061389.svg?token=exp=1610826601~hmac=6ccc9964d398e38dae8f61a1d5eeb912' width="125" height="125">
