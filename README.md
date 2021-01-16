@@ -9,7 +9,7 @@ Javascript to take it to the highest level!
 ## Last projects :closed_book:
 [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
-## I’m looking to collaborate with 👯
+## I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
 
 ## Contact Me :mailbox_with_mail:
