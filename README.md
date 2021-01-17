@@ -1,5 +1,4 @@
-<h1 align="center"> Hi, Welcome to My Profile! 👋 </h1>
-
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />     Hi, Welcome to My Profile!</h1>
 <div align='center'>
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061389.svg?token=exp=1610826601~hmac=6ccc9964d398e38dae8f61a1d5eeb912' width="125" height="125">
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061255.svg?token=exp=1610827132~hmac=7f8b1f44b59ace342a06ddce1dd0b83a' width='125' height='125'>
