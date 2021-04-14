@@ -4,7 +4,16 @@
 
 <div align="center" ><img width="480" height="270" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" border="0" alt="animated-line-image-0125" /></div>
 
-#### Me dedico a Desarrollar Paginas Web FrontEnd con HTML, CSS y JS
+### Me dedico a Desarrollar Paginas Web FrontEnd
+
+### Lenguajes y Herramientas que utilizo:
+
+- HTML
+- CSS
+- JS
+- FIGMA
+- PHOTOSHOP
+- ILLUSTRATOR
 
 
 #### :closed_book: Algunos de los Proyectos que he realizado: 
