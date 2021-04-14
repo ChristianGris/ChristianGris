@@ -21,11 +21,12 @@
 * [Bird OS](https://github.com/ChristianGris/Bird-OS) - Una simulación de sistema operativo creada con HTML, CSS y JavaScript
 * [Exodia](https://github.com/ChristianGris/Exodia) - Una pagina de descarga de Videojuegos y Programas con buen diseño!
 
+<div align="center"><img src="https://user-images.githubusercontent.com/74702918/114761784-304f1180-9d1e-11eb-9159-4161aa4d03e6.png" border="0" alt="separador rosa" /></div>
 
 ### Contactame! :mailbox_with_mail:
 * **Discord:** Christian Grey#7350
 
-<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74702918/114761784-304f1180-9d1e-11eb-9159-4161aa4d03e6.png" border="0" alt="separador rosa" /></div>
 
 
 
