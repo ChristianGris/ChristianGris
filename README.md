@@ -3,7 +3,7 @@
 <h1 align="center"> Hi, Welcome to My Profile! 👋 </h1>
 
 <iframe src="https://giphy.com/embed/836HiJc7pgzy8iNXCn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn"></a></p>
-
+<div align="center" ><img width="480" height="270" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn" border="0" alt="animated-line-image-0125" /></div>
 
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
