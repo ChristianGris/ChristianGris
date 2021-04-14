@@ -8,12 +8,12 @@
 
 ### Lenguajes y Herramientas que utilizo:
 
-- HTML
-- CSS
-- JS
-- FIGMA
-- PHOTOSHOP
-- ILLUSTRATOR
+- :sparkles: HTML
+- :sparkles: CSS
+- :sparkles: JS
+- :sparkles: FIGMA
+- :sparkles: PHOTOSHOP
+- :sparkles: ILLUSTRATOR
 
 
 ### Algunos de los Proyectos que he realizado: 
