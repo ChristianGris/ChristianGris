@@ -9,6 +9,7 @@
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
 
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
 
 # I’m currently learning 🌱
 * Javascript to take it to the highest level!
