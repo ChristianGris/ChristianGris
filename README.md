@@ -25,12 +25,12 @@ FrontEnd Websites with HTML, CSS & JS
 # I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
 
-<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
+<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></div>
 
 # Contact Me :mailbox_with_mail:
 * **Discord:** Christian Grey#7350
 
-<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
+<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></div>
 
 
 
