@@ -4,16 +4,10 @@
 
 <div align="center" ><img width="480" height="270" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" border="0" alt="animated-line-image-0125" /></div>
 
-# I’m currently working on 🔭 
-FrontEnd Websites with HTML, CSS & JS
+#### Me dedico a Desarrollar Paginas Web FrontEnd con HTML, CSS y JS
 
 
-# I’m currently learning 🌱
-* Javascript to take it to the highest level!
-* Graphic Design 
-
-
-# Last projects :closed_book:
+##### :closed_book: Algunos de los Proyectos que he realizado: 
 [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
 
