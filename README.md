@@ -18,7 +18,7 @@
 
 ### Algunos de los Proyectos que he realizado: 
 
-* [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
+* [Bird OS](https://github.com/ChristianGris/Bird-OS) - Una simulación de sistema operativo creada con HTML, CSS y JavaScript
 
 
 # I’m looking to collaborate with :crystal_ball:
