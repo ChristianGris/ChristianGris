@@ -16,7 +16,7 @@
 - ILLUSTRATOR
 
 
-#### :closed_book: Algunos de los Proyectos que he realizado: 
+### Algunos de los Proyectos que he realizado: 
 
 * [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
