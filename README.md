@@ -24,8 +24,8 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74702918/114761784-304f1180-9d1e-11eb-9159-4161aa4d03e6.png" border="0" alt="separador rosa" /></div>
 
 ## :mailbox_with_mail: Contactame! 
- * **Discord:** Christian Grey#7350
-
+ * :crystal_ball: **Discord:** Christian Grey#7350
+ 
 <div align="center"><img src="https://user-images.githubusercontent.com/74702918/114761784-304f1180-9d1e-11eb-9159-4161aa4d03e6.png" border="0" alt="separador rosa" /></div>
 
 
