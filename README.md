@@ -1,4 +1,4 @@
-<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
+<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></div>
 
 <h1 align="center"> Hi, Welcome to My Profile! 👋 </h1>
 
