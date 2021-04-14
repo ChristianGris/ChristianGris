@@ -1,3 +1,5 @@
+<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
+
 <h1 align="center"> Hi, Welcome to My Profile! 👋 </h1>
 
 <div align='center'>
@@ -6,10 +8,10 @@
   <img src='https://www.flaticon.com/svg/vstatic/svg/4061/4061207.svg?token=exp=1610827127~hmac=22050652a8e794906c001a97b16a7a81' width='125' height='125'>
 </div>
 
+
 # I’m currently working on 🔭 
 FrontEnd Websites with HTML, CSS & JS
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
 
 # I’m currently learning 🌱
 * Javascript to take it to the highest level!
@@ -23,10 +25,12 @@ FrontEnd Websites with HTML, CSS & JS
 # I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
 
+<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
 
 # Contact Me :mailbox_with_mail:
 * **Discord:** Christian Grey#7350
 
+<a align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0125.gif" border="0" alt="animated-line-image-0125" /></a>
 
 
 
