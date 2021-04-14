@@ -19,7 +19,7 @@
 ### Algunos de los Proyectos que he realizado: 
 
 * [Bird OS](https://github.com/ChristianGris/Bird-OS) - Una simulación de sistema operativo creada con HTML, CSS y JavaScript
-
+* [Exodia](https://github.com/ChristianGris/Exodia) - Una pagina de descarga de Videojuegos y Programas con buen diseño!
 
 # I’m looking to collaborate with :crystal_ball:
 Anyone with an open mind and mindset of wanting to be the best at what they do!
