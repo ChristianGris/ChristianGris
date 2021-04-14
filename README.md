@@ -7,8 +7,9 @@
 #### Me dedico a Desarrollar Paginas Web FrontEnd con HTML, CSS y JS
 
 
-##### :closed_book: Algunos de los Proyectos que he realizado: 
-[Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
+#### :closed_book: Algunos de los Proyectos que he realizado: 
+
+* [Bird OS](https://github.com/ChristianGris/Bird-OS) - A Operative System Simulation created with HTML, CSS & JavaScript
 
 
 # I’m looking to collaborate with :crystal_ball:
